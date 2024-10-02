@@ -55,14 +55,14 @@ const products2: Product2[] = [
     id: 1,
     image:
       "https://cdn.pixabay.com/photo/2024/05/08/17/45/animal-8748794_1280.jpg",
-    title: "His mother had always taught him",
-    body: "His mother had always taught him not to ever think of himself as better than others. He'd tried to live by this motto. He never looked down on those who were less fortunate or who had less money than him. But the stupidity of the group of people he was talking to made him change his mind.",
+    title: "Mother had always taught him",
+    body: "Him not to ever think of himself as better than others. He'd tried to live by this motto. He never looked down on those who were less fortunate or who had less money than him. But the stupidity of the group of people he was talking to made him change his mind.",
     reactions: {
-      likes: 192,
+      likes: 200,
       dislikes: 25,
     },
-    views: 305,
-    userId: 121,
+    views: 195,
+    userId: 1221,
   },
   {
     id: 2,
@@ -71,10 +71,10 @@ const products2: Product2[] = [
     title: "He was an expert but not in a discipline",
     body: "He was an expert but not in a discipline that anyone could fully appreciate. He knew how to hold the cone just right so that the soft server ice-cream fell into it at the precise angle to form a perfect cone each and every time. It had taken years to perfect and he could now do it without even putting any thought behind it.",
     reactions: {
-      likes: 859,
-      dislikes: 32,
+      likes: 1259,
+      dislikes: 2,
     },
-    views: 4884,
+    views: 5584,
     userId: 91,
   },
   {
@@ -97,11 +97,11 @@ const products2: Product2[] = [
     title: "All he wanted was a candy bar.",
     body: "All he wanted was a candy bar. It didn't seem like a difficult request to comprehend, but the clerk remained frozen and didn't seem to want to honor the request. It might have had something to do with the gun pointed at his face.",
     reactions: {
-      likes: 359,
-      dislikes: 18,
+      likes: 3519,
+      dislikes: 1238,
     },
-    views: 4548,
-    userId: 47,
+    views: 12421,
+    userId: 4712,
   },
   {
     id: 5,
@@ -110,11 +110,11 @@ const products2: Product2[] = [
     title: "Hopes and dreams were dashed that day.",
     body: "Hopes and dreams were dashed that day. It should have been expected, but it still came as a shock. The warning signs had been ignored in favor of the possibility, however remote, that it could actually happen. That possibility had grown from hope to an undeniable belief it must be destiny. That was until it wasn't and the hopes and dreams came crashing down.",
     reactions: {
-      likes: 119,
-      dislikes: 30,
+      likes: 1239,
+      dislikes: 303,
     },
-    views: 626,
-    userId: 131,
+    views: 723,
+    userId: 134,
   },
   {
     id: 6,
@@ -123,8 +123,8 @@ const products2: Product2[] = [
     title: "Dave wasn't exactly sure how he had ended up",
     body: "Dave wasn't exactly sure how he had ended up in this predicament. He ran through all the events that had lead to this current situation and it still didn't make sense. He wanted to spend some time to try and make sense of it all, but he had higher priorities at the moment. The first was how to get out of his current situation of being naked in a tree with snow falling all around and no way for him to get down.",
     reactions: {
-      likes: 15,
-      dislikes: 8,
+      likes: 50,
+      dislikes: 17,
     },
     views: 38,
     userId: 98,
@@ -135,10 +135,10 @@ const products2: Product2[] = [
     title: "This is important to remember.",
     body: "This is important to remember. Love isn't like pie. You don't need to divide it among all your friends and loved ones. No matter how much love you give, you can always give more. It doesn't run out, so don't try to hold back giving it as if it may one day run out. Give it freely and as much as you want.",
     reactions: {
-      likes: 127,
-      dislikes: 26,
+      likes: 1227,
+      dislikes: 246,
     },
-    views: 168,
+    views: 1618,
     userId: 70,
   },
   {
@@ -148,10 +148,10 @@ const products2: Product2[] = [
     title: "One can cook on and with an open fire.",
     body: "One can cook on and with an open fire. These are some of the ways to cook with fire outside. Cooking meat using a spit is a great way to evenly cook meat. In order to keep meat from burning, it's best to slowly rotate it.",
     reactions: {
-      likes: 1271,
-      dislikes: 36,
+      likes: 1221,
+      dislikes: 336,
     },
-    views: 2116,
+    views: 21416,
     userId: 67,
   },
   {
